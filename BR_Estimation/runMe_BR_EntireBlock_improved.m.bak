@@ -1,6 +1,3 @@
-% Obada Al Zoubi obada.y.alzoubi@gmail.com
-% Created: 2019
-
 %% df
 clc;clear;
 df = importfile('/media/cephfs/labs/jbodurka/Obada/Projects/Capsule/sub_files/Start_Block.csv');
@@ -25,7 +22,6 @@ for iSubj=1:nSubjs
     st   = df.Start(iSubj); 
     ind_sub_time = sprintf('%s/Corrected_Timing_%s.csv',ind_timing, subj);
     timing   = csvread(ind_sub_time);
-    % Set the timing 
     if enh==2
         % Normal is from 1 to 60 time stmaps
         % Enhanced is after 
@@ -33,7 +29,6 @@ for iSubj=1:nSubjs
         st_enh_ind = 61;
         ed_n_ind   = 60;
         ed_enh_ind = size(timing,1);
-    
     elseif enh==1
         % Normal is from 61 to 117
         % Enhanced is from 1 to 60
@@ -102,7 +97,7 @@ for iSubj=1:nSubjs %
     end
     
 
-    HR_pre= getHR(ECG, normal_events_, W, Fs); 
+    HR_pre= getBR(ECG, normal_events_, W, Fs); 
     HR_post = HR_pre; 
 
     HR_MAt{iSubj,2} = HR_pre;
@@ -121,7 +116,7 @@ for iSubj=1:nSubjs %
         
     end    
 
-    HR_pre  = getHR(ECG, enh_events_, W, Fs); 
+    HR_pre  = getBR(ECG, enh_events_, W, Fs); 
     HR_post= HR_pre ;
 
     HR_MAt{iSubj,4} = HR_pre;
@@ -139,7 +134,7 @@ for iSubj=1:nSubjs %
         
     end  
 
-    HR_baseline= getHR(ECG, baseline_events_,W, Fs); 
+    HR_baseline= getBR(ECG, baseline_events_,W, Fs); 
     
     HR_MAt{iSubj,6} = HR_baseline;
     HR_MAt{iSubj,7} = HR_baseline;
@@ -172,5 +167,5 @@ end
 %%
 
 df_res = array2table(df_res);
-writetable(df_res,'/media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/HR_Wind_Results_120121_improved.csv')
+writetable(df_res,'/media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/BR_Wind_Results_120121_improved.csv')
 

@@ -1,3 +1,6 @@
+% Obada Al Zoubi obada.y.alzoubi@gmail.com
+% Created: 2019
+
 %% df
 clc;clear;
 df = importfile('/media/cephfs/labs/jbodurka/Obada/Projects/Capsule/sub_files/Start_Block.csv');

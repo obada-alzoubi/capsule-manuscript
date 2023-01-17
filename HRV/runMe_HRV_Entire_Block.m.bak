@@ -1,6 +1,3 @@
-% Obada Al Zoubi obada.y.alzoubi@gmail.com
-% Created: 2019
-
 clc;clear all; close all; 
 %% General Config. 
 addpath('helping_codes/helping_funcs')
