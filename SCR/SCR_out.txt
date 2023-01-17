@@ -1,0 +1,566 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019a Update 4 (9.6.0.1150989) 64-bit (glnxa64)
+                               June 26, 2019
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+
+	Non-Degree Granting Education License -- for use at non-degree granting, nonprofit,
+	educational organizations only.  Not for government, commercial, or other organizational use.
+
+[Warning: Directory already exists.] 
+[> In runMe_SCR_v2 (line 14)] 
+Subject AB765 is already processed 
+Subject AF497 is already processed 
+Subject AO851 is already processed 
+Subject AQ975 is already processed 
+Subject AT016 is already processed 
+Subject AU114 is already processed 
+Subject AW090 is already processed 
+Subject AW697 is already processed 
+Subject AY074 is already processed 
+Subject AZ107 is already processed 
+Subject AZ474 is already processed 
+Subject AZ908 is already processed 
+Subject BA693 is already processed 
+Subject BB478 is already processed 
+Subject BB527 is already processed 
+Subject BB570 is already processed 
+Subject BB795 is already processed 
+Subject BC553 is already processed 
+Subject BC650 is already processed 
+Subject BC938 is already processed 
+Subject BD027 is already processed 
+Subject BD206 is already processed 
+Subject BD603 is already processed 
+Subject BE031 is already processed 
+Subject BE054 is already processed 
+Subject BE114 is already processed 
+Subject BE296 is already processed 
+Subject BE589 is already processed 
+Subject BE673 is already processed 
+Subject BE735 is already processed 
+Subject BH117 is already processed 
+Subject BH126 is already processed 
+Subject BH806 is already processed 
+Subject BJ089 is already processed 
+Subject BJ106 is already processed 
+Subject BJ176 is already processed 
+Subject BJ186 is already processed 
+Subject BJ229 is already processed 
+Subject BJ248 is already processed 
+Subject BJ587 is already processed 
+Subject BL576 is already processed 
+Subject BK380 is already processed 
+Subject BL746 is already processed 
+Subject BL864 is already processed 
+Subject BL915 is already processed 
+Subject BL991 is already processed 
+Subject BD834 is already processed 
+Subject BL914 is already processed 
+Subject BK749 is already processed 
+Subject BM276 is already processed 
+Subject BL988 is already processed 
+Subject BK162 is already processed 
+Subject BK413 is already processed 
+Subject AL752 is already processed 
+Subject BN237 is already processed 
+Subject BM370 is already processed 
+Subject BN410 is already processed 
+06:53:09: Starting Ledalab batch for /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/ (119 file/s)
+ 
+06:53:10: Batch-Analyzing AB765_SCR.mat
+06:53:12: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/AB765_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:53:12: Batch-Analyzing AB765_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/AB765_SCR_era.mat.
+Unable to open file!
+ 
+06:53:13: Batch-Analyzing AF497_SCR.mat
+06:53:13: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/AF497_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:53:13: Batch-Analyzing AF497_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/AF497_SCR_era.mat.
+Unable to open file!
+ 
+06:53:14: Batch-Analyzing AL752_SCR.mat
+06:53:14: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/AL752_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:53:14: Batch-Analyzing AL752_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/AL752_SCR_era.mat.
+Unable to open file!
+ 
+06:53:14: Batch-Analyzing AO851_SCR.mat
+06:53:15: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/AO851_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:53:15: Batch-Analyzing AO851_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/AO851_SCR_era.mat.
+Unable to open file!
+ 
+06:53:15: Batch-Analyzing AQ975_SCR.mat
+06:53:16: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/AQ975_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:53:16: Batch-Analyzing AQ975_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/AQ975_SCR_era.mat.
+Unable to open file!
+ 
+06:53:17: Batch-Analyzing AT016_SCR.mat
+06:53:17: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/AT016_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:53:17: Batch-Analyzing AT016_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/AT016_SCR_era.mat.
+Unable to open file!
+ 
+06:53:18: Batch-Analyzing AU114_SCR.mat
+06:53:18: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/AU114_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:53:18: Batch-Analyzing AU114_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/AU114_SCR_era.mat.
+Unable to open file!
+ 
+06:53:19: Batch-Analyzing AW090_SCR.mat
+06:53:19: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/AW090_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:53:19: Batch-Analyzing AW090_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/AW090_SCR_era.mat.
+Unable to open file!
+ 
+06:53:20: Batch-Analyzing AW697_SCR.mat
+06:53:20: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/AW697_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:53:21: Batch-Analyzing AW697_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/AW697_SCR_era.mat.
+Unable to open file!
+ 
+06:53:21: Batch-Analyzing AY074_SCR.mat
+06:53:21: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/AY074_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:53:21: Batch-Analyzing AY074_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/AY074_SCR_era.mat.
+Unable to open file!
+ 
+06:53:22: Batch-Analyzing AZ107_SCR.mat
+06:53:23: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/AZ107_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:53:23: Batch-Analyzing AZ107_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/AZ107_SCR_era.mat.
+Unable to open file!
+ 
+06:53:23: Batch-Analyzing AZ474_SCR.mat
+06:53:23: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/AZ474_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:53:23: Batch-Analyzing AZ474_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/AZ474_SCR_era.mat.
+Unable to open file!
+ 
+06:53:24: Batch-Analyzing AZ908_SCR.mat
+06:53:24: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/AZ908_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:53:24: Batch-Analyzing AZ908_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/AZ908_SCR_era.mat.
+Unable to open file!
+ 
+06:53:25: Batch-Analyzing BA693_SCR.mat
+06:53:26: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BA693_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:53:26: Batch-Analyzing BA693_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BA693_SCR_era.mat.
+Unable to open file!
+ 
+06:53:26: Batch-Analyzing BB478_SCR.mat
+06:53:27: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BB478_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:53:27: Batch-Analyzing BB478_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BB478_SCR_era.mat.
+Unable to open file!
+ 
+06:53:27: Batch-Analyzing BB481_SCR.mat
+Optimized parameter:  0.92	 2.08	 Error:  2.299 (Initial parameter:  1.00	 3.75	 Error:  3.526)
+Optimized parameter:  0.98	 2.00	 Error:  2.304 (Initial parameter:  1.00	 2.00	 Error:  2.317)
+Optimized parameter:  0.49	 2.80	 Error:  2.341 (Initial parameter:  1.00	 6.00	 Error:  5.429)
+Optimized parameter:  0.50	 3.51	 Error:  2.342 (Initial parameter:  1.00	 8.00	 Error:  7.195)
+Optimized parameter:  0.75	 2.57	 Error:  2.311 (Initial parameter:  0.50	 2.00	 Error:  2.644)
+Final optimized parameter:   0.92	  2.08	 Error:  2.299
+ 
+06:54:59: Batch-Analyzing BB527_SCR.mat
+06:55:00: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BB527_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:55:00: Batch-Analyzing BB527_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BB527_SCR_era.mat.
+Unable to open file!
+ 
+06:55:00: Batch-Analyzing BB570_SCR.mat
+06:55:01: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BB570_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:55:01: Batch-Analyzing BB570_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BB570_SCR_era.mat.
+Unable to open file!
+ 
+06:55:02: Batch-Analyzing BB795_SCR.mat
+06:55:02: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BB795_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:55:02: Batch-Analyzing BB795_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BB795_SCR_era.mat.
+Unable to open file!
+ 
+06:55:03: Batch-Analyzing BC553_SCR.mat
+06:55:03: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BC553_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:55:03: Batch-Analyzing BC553_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BC553_SCR_era.mat.
+Unable to open file!
+ 
+06:55:04: Batch-Analyzing BC650_SCR.mat
+06:55:05: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BC650_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:55:05: Batch-Analyzing BC650_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BC650_SCR_era.mat.
+Unable to open file!
+ 
+06:55:05: Batch-Analyzing BC938_SCR.mat
+06:55:06: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BC938_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:55:06: Batch-Analyzing BC938_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BC938_SCR_era.mat.
+Unable to open file!
+ 
+06:55:06: Batch-Analyzing BD027_SCR.mat
+06:55:06: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BD027_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:55:06: Batch-Analyzing BD027_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BD027_SCR_era.mat.
+Unable to open file!
+ 
+06:55:07: Batch-Analyzing BD206_SCR.mat
+06:55:08: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BD206_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:55:08: Batch-Analyzing BD206_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BD206_SCR_era.mat.
+Unable to open file!
+ 
+06:55:08: Batch-Analyzing BD603_SCR.mat
+06:55:08: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BD603_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:55:08: Batch-Analyzing BD603_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BD603_SCR_era.mat.
+Unable to open file!
+ 
+06:55:09: Batch-Analyzing BD834_SCR.mat
+06:55:09: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BD834_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:55:09: Batch-Analyzing BD834_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BD834_SCR_era.mat.
+Unable to open file!
+ 
+06:55:10: Batch-Analyzing BE031_SCR.mat
+06:55:10: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BE031_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:55:10: Batch-Analyzing BE031_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BE031_SCR_era.mat.
+Unable to open file!
+ 
+06:55:11: Batch-Analyzing BE054_SCR.mat
+06:55:11: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BE054_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:55:11: Batch-Analyzing BE054_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BE054_SCR_era.mat.
+Unable to open file!
+ 
+06:55:12: Batch-Analyzing BE114_SCR.mat
+06:55:12: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BE114_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:55:12: Batch-Analyzing BE114_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BE114_SCR_era.mat.
+Unable to open file!
+ 
+06:55:13: Batch-Analyzing BE296_SCR.mat
+06:55:14: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BE296_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:55:14: Batch-Analyzing BE296_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BE296_SCR_era.mat.
+Unable to open file!
+ 
+06:55:14: Batch-Analyzing BE589_SCR.mat
+06:55:15: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BE589_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:55:15: Batch-Analyzing BE589_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BE589_SCR_era.mat.
+Unable to open file!
+ 
+06:55:15: Batch-Analyzing BE673_SCR.mat
+06:55:16: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BE673_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:55:16: Batch-Analyzing BE673_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BE673_SCR_era.mat.
+Unable to open file!
+ 
+06:55:16: Batch-Analyzing BE735_SCR.mat
+06:55:17: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BE735_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:55:17: Batch-Analyzing BE735_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BE735_SCR_era.mat.
+Unable to open file!
+ 
+06:55:17: Batch-Analyzing BH117_SCR.mat
+06:55:17: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BH117_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:55:17: Batch-Analyzing BH117_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BH117_SCR_era.mat.
+Unable to open file!
+ 
+06:55:18: Batch-Analyzing BH126_SCR.mat
+06:55:18: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BH126_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:55:18: Batch-Analyzing BH126_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BH126_SCR_era.mat.
+Unable to open file!
+ 
+06:55:19: Batch-Analyzing BH806_SCR.mat
+06:55:19: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BH806_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:55:19: Batch-Analyzing BH806_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BH806_SCR_era.mat.
+Unable to open file!
+ 
+06:55:20: Batch-Analyzing BJ089_SCR.mat
+06:55:20: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BJ089_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:55:20: Batch-Analyzing BJ089_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BJ089_SCR_era.mat.
+Unable to open file!
+ 
+06:55:21: Batch-Analyzing BJ106_SCR.mat
+06:55:21: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BJ106_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:55:21: Batch-Analyzing BJ106_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BJ106_SCR_era.mat.
+Unable to open file!
+ 
+06:55:22: Batch-Analyzing BJ176_SCR.mat
+06:55:22: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BJ176_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:55:22: Batch-Analyzing BJ176_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BJ176_SCR_era.mat.
+Unable to open file!
+ 
+06:55:23: Batch-Analyzing BJ186_SCR.mat
+06:55:23: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BJ186_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:55:23: Batch-Analyzing BJ186_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BJ186_SCR_era.mat.
+Unable to open file!
+ 
+06:55:23: Batch-Analyzing BJ229_SCR.mat
+06:55:24: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BJ229_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:55:24: Batch-Analyzing BJ229_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BJ229_SCR_era.mat.
+Unable to open file!
+ 
+06:55:24: Batch-Analyzing BJ248_SCR.mat
+06:55:25: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BJ248_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:55:25: Batch-Analyzing BJ248_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BJ248_SCR_era.mat.
+Unable to open file!
+ 
+06:55:25: Batch-Analyzing BJ587_SCR.mat
+06:55:26: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BJ587_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:55:26: Batch-Analyzing BJ587_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BJ587_SCR_era.mat.
+Unable to open file!
+ 
+06:55:27: Batch-Analyzing BK162_SCR.mat
+06:55:27: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BK162_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:55:27: Batch-Analyzing BK162_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BK162_SCR_era.mat.
+Unable to open file!
+ 
+06:55:27: Batch-Analyzing BK323_SCR.mat
+Optimized parameter:  0.68	 2.84	 Error:  0.344 (Initial parameter:  1.00	 3.75	 Error:  0.508)
+Optimized parameter:  1.04	 2.06	 Error:  0.353 (Initial parameter:  1.00	 2.00	 Error:  0.353)
+Optimized parameter:  0.69	 2.79	 Error:  0.345 (Initial parameter:  1.00	 6.00	 Error:  0.781)
+Optimized parameter:  0.57	 3.33	 Error:  0.354 (Initial parameter:  1.00	 8.00	 Error:  1.017)
+Optimized parameter:  0.59	 3.42	 Error:  0.354 (Initial parameter:  0.50	 2.00	 Error:  0.676)
+Final optimized parameter:   0.68	  2.84	 Error:  0.344
+ 
+06:57:18: Batch-Analyzing BK380_SCR.mat
+06:57:18: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BK380_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:57:18: Batch-Analyzing BK380_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BK380_SCR_era.mat.
+Unable to open file!
+ 
+06:57:19: Batch-Analyzing BK413_SCR.mat
+06:57:19: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BK413_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:57:19: Batch-Analyzing BK413_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BK413_SCR_era.mat.
+Unable to open file!
+ 
+06:57:20: Batch-Analyzing BK749_SCR.mat
+06:57:20: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BK749_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:57:20: Batch-Analyzing BK749_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BK749_SCR_era.mat.
+Unable to open file!
+ 
+06:57:21: Batch-Analyzing BL576_SCR.mat
+06:57:21: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BL576_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:57:21: Batch-Analyzing BL576_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BL576_SCR_era.mat.
+Unable to open file!
+ 
+06:57:21: Batch-Analyzing BL707_SCR.mat
+Optimized parameter:  0.69	 4.25	 Error:  0.147 (Initial parameter:  1.00	 3.75	 Error:  0.169)
+Optimized parameter:  1.09	 3.10	 Error:  0.157 (Initial parameter:  1.00	 2.00	 Error:  0.211)
+Optimized parameter:  0.52	 5.36	 Error:  0.143 (Initial parameter:  1.00	 6.00	 Error:  0.249)
+Optimized parameter:  0.54	 4.89	 Error:  0.142 (Initial parameter:  1.00	 8.00	 Error:  0.321)
+Optimized parameter:  0.60	 4.76	 Error:  0.144 (Initial parameter:  0.50	 2.00	 Error:  0.526)
+Final optimized parameter:   0.54	  4.89	 Error:  0.142
+ 
+06:58:51: Batch-Analyzing BL746_SCR.mat
+06:58:51: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BL746_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:58:51: Batch-Analyzing BL746_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BL746_SCR_era.mat.
+Unable to open file!
+ 
+06:58:51: Batch-Analyzing BL864_SCR.mat
+06:58:52: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BL864_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:58:52: Batch-Analyzing BL864_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BL864_SCR_era.mat.
+Unable to open file!
+ 
+06:58:53: Batch-Analyzing BL914_SCR.mat
+06:58:53: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BL914_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:58:53: Batch-Analyzing BL914_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BL914_SCR_era.mat.
+Unable to open file!
+ 
+06:58:54: Batch-Analyzing BL915_SCR.mat
+06:58:54: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BL915_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:58:54: Batch-Analyzing BL915_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BL915_SCR_era.mat.
+Unable to open file!
+ 
+06:58:55: Batch-Analyzing BL988_SCR.mat
+06:58:55: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BL988_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:58:55: Batch-Analyzing BL988_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BL988_SCR_era.mat.
+Unable to open file!
+ 
+06:58:55: Batch-Analyzing BL991_SCR.mat
+06:58:56: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BL991_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:58:56: Batch-Analyzing BL991_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BL991_SCR_era.mat.
+Unable to open file!
+ 
+06:58:56: Batch-Analyzing BM276_SCR.mat
+06:58:57: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BM276_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:58:57: Batch-Analyzing BM276_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BM276_SCR_era.mat.
+Unable to open file!
+ 
+06:58:57: Batch-Analyzing BM370_SCR.mat
+06:58:58: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BM370_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:58:58: Batch-Analyzing BM370_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BM370_SCR_era.mat.
+Unable to open file!
+ 
+06:58:59: Batch-Analyzing BN237_SCR.mat
+06:58:59: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BN237_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+06:58:59: Batch-Analyzing BN237_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BN237_SCR_era.mat.
+Unable to open file!
+ 
+06:59:00: Batch-Analyzing BN299_SCR.mat
+Optimized parameter:  1.25	 3.09	 Error:  0.810 (Initial parameter:  1.00	 3.75	 Error:  0.954)
+Optimized parameter:  1.18	 3.38	 Error:  0.825 (Initial parameter:  1.00	 2.00	 Error:  2.046)
+Optimized parameter:  1.07	 4.09	 Error:  0.868 (Initial parameter:  1.00	 6.00	 Error:  1.101)
+Optimized parameter:  0.72	 3.83	 Error:  0.876 (Initial parameter:  1.00	 8.00	 Error:  1.415)
+Optimized parameter:  1.10	 3.88	 Error:  0.849 (Initial parameter:  0.50	 2.00	 Error:  4.993)
+Final optimized parameter:   1.25	  3.09	 Error:  0.810
+ 
+07:00:48: Batch-Analyzing BN410_SCR.mat
+07:00:48: File /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BN410_SCR.mat is a native Matlab file of Ledalab: Please use batch mode parameter settings 'open','leda' instead of 'open','mat'!
+Unable to open file!
+ 
+07:00:48: Batch-Analyzing BN410_SCR_era.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/BN410_SCR_era.mat.
+Unable to open file!
+ 
+07:00:48: Batch-Analyzing batchmode_protocol.mat
+Unable to import /media/cephfs/labs/jbodurka/Obada/Projects/Capsule/data/SCR_NatureComm/batchmode_protocol.mat.
+Unable to open file!
